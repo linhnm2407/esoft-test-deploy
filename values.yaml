@@ -14,7 +14,7 @@ service:
   port: 8080
 
 ingress:
-  enabled: false
+  enabled: true
   annotations: {}
   paths: []
   hosts:
