@@ -1,7 +1,7 @@
 replicaCount: 1
 
 image:
-  repository: 058264552037.dkr.ecr.ap-southeast-2.amazonaws.com/esoft-springboot:10
+  repository: 058264552037.dkr.ecr.ap-southeast-2.amazonaws.com/esoft-springboot:11
   pullPolicy: IfNotPresent
 
 nameOverride: ""
